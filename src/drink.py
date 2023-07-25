@@ -28,4 +28,3 @@ class Net(pl.LightningModule):
         return h
 
 
-
